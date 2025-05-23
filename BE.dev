@@ -1,0 +1,62 @@
+﻿[Project]
+filename=BE.dev
+name=Breed Editor
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=BE_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=1
+Icon=BE.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=BE.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=1
+CompilerSet=3
+CompilerSettings=0;1;1;1;1;21;5;1;11;0;0;0;0;0;0;0;0;0;1;0;0;1;17;1;0;1
+UnitCount=1
+
+[VersionInfo]
+Major=2
+Minor=4
+Release=8
+Build=526
+LanguageID=1033
+CharsetID=1252
+CompanyName=Nfor studio
+FileVersion=2.4.8.526
+FileDescription=Breed editor designed to create your own units
+InternalName=Breed Editor
+LegalCopyright=https://vk.com/nfors_dungeon
+LegalTrademarks=https://vk.com/nfors_dungeon
+OriginalFilename=Main.cs,main.cpp
+ProductName=Breed Editor MOWAS 2
+ProductVersion=2.4.8.526
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=main.cpp
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+

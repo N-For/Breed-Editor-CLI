@@ -1,0 +1,25 @@
+{breed
+	{behaviour soldier}
+	{skin "rus_partizan3"}
+	{portrait eng_elite1}
+	{icon_priority 0}
+	{nationality eng}
+	{armors
+		{head cap1_usa}
+	}
+	{perks
+		{"health" "225%"}
+		{"rifle" lvl_3}
+		{"health_regeneration" "75%"}
+	}
+	{veterancy
+		{"lvl_1" 10}
+		{"lvl_2" 20}
+		{"lvl_3" 30}
+		{"lvl_4" 40}
+		{"lvl_5" 50}
+	}
+{inventory
+		{item "rifle ammo" 70}
+	}
+}

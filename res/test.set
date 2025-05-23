@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "skin"}
+	{portrait port}
+	{icon ico}
+	{icon_priority 0}
+	{tags "test"}
+	{nationality rus}
+	{voice rus}
+	{armors
+		{head  lib}
+	}
+	{perks
+		{"rifle" lvl_1}
+		{"speed" 1}
+		{"melee" lvl_1}
+		{"pistol" lvl_1}
+		{"stamina" "500%"}
+		{"health" "200%"}
+		{"smg" lvl_1}
+		{"mgun" lvl_3}
+		{"rocketlauncher" lvl_4}
+		{"stamina_regeneration" "200%"}
+		{"at_rifle" lvl_1}
+		{"health_regeneration "100%" }
+	}
+	{veterancy
+		{"lvl_1" 1}
+		{"lvl_2" 20}
+		{"lvl_3" 30}
+		{"lvl_4" 40}
+		{"lvl_5" 50}
+	}
+	{inventory
+		{item "ak_74" }
+		{item "smg ammo" 60 }
+	}
+}
